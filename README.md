@@ -1,5 +1,7 @@
 
-<center><strong>Hi there</strong>👋, I'm Arthur Werle. I'm a Software Developer.</center>
+
+<h1 align="center">Hi 👋, I'm Arthur Werle, 23y</h1>
+<h3 align="center">I'm a Software Developer from Brazil</h3>
 
 <!--
 **ArthurWerle/ArthurWerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
