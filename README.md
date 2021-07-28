@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<center><strong>Hi there</strong>👋, I'm Arthur Werle. I'm a Software Developer.</center>
 
 <!--
 **ArthurWerle/ArthurWerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
