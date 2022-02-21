@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Arthur Werle, 23y</h1>
+<h1 align="center">Hi 👋, I'm Arthur Werle</h1>
 <h3 align="center">I'm a Software Developer from Brazil</h3>
 
 <!--
