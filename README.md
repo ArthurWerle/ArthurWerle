@@ -3,4 +3,4 @@
 
 <p>👉 checkout my website: www.arthurwerle.com.br</p>
 
-<b>automate everything.</>
+<b>automate everything.</b>
