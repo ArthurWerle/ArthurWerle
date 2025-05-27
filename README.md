@@ -3,4 +3,4 @@
 
 <p>👉 checkout my website: www.arthurwerle.com.br</p>
 
-<b>do it yourself.</b>
+<b>keep it simple.</b>
